@@ -1,2 +1,2 @@
 # dexcel
-a diff tool for compare two excels in terminal wit pretty print
+a diff tool for compare excels in terminal with pretty printed tables

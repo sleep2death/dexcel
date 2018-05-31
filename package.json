@@ -1,0 +1,24 @@
+{
+  "name": "dexcel",
+  "version": "0.0.1",
+  "description": "a diff tool for compare two excels in terminal with pretty printed tabels",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sleep2death/dexcel.git"
+  },
+  "keywords": [
+    "diff",
+    "excel",
+    "nodejs"
+  ],
+  "author": "aspirin2d@outlook.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sleep2death/dexcel/issues"
+  },
+  "homepage": "https://github.com/sleep2death/dexcel#readme"
+}
